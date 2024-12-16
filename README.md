@@ -86,10 +86,12 @@ Las tareas se almacenan en una base de datos SQLite (`gestion_tareas.db`) utiliz
 ## Capturas de pantalla
 
 ### Inicio de sesión
-![imagen_2024-12-15_200640023](https://github.com/user-attachments/assets/877d2eac-1faf-4bcb-99ac-47a7cd157f9f)
+![Captura de pantalla 2024-12-15 200410](https://github.com/user-attachments/assets/3ab2cdbd-7adf-4b55-8502-750095a64c6d)
 
 ### Gestor de tareas
-![Captura de pantalla 2024-12-15 200410](https://github.com/user-attachments/assets/3ab2cdbd-7adf-4b55-8502-750095a64c6d)
+![imagen_2024-12-15_200640023](https://github.com/user-attachments/assets/877d2eac-1faf-4bcb-99ac-47a7cd157f9f)
+
+
 
 ## Tecnologías utilizadas
 
