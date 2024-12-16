@@ -111,4 +111,4 @@ Las tareas se almacenan en una base de datos SQLite (`gestion_tareas.db`) utiliz
 
 ## Autor
 
-Este proyecto fue desarrollado como por Daniel Eduardo Padilla Cerpa y puede ser modificado según las necesidades del usuario.
+Este proyecto fue desarrollado por Daniel Eduardo Padilla Cerpa y puede ser modificado según las necesidades del usuario.
